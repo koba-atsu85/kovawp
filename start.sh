@@ -22,5 +22,4 @@ $mackerel_agent -conf $mackerel_agent_conf -v &
 
 #web: vendor/bin/heroku-php-apache2
 
-cd /
 vendor/bin/heroku-php-apache2
